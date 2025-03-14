@@ -1,3 +1,3 @@
-# 반갑습니다
+# Hello
 
-저는 광주소프트웨어마이스터고등학교에 재학중입니다
+I'm attending Gwangju Software Meister High School
